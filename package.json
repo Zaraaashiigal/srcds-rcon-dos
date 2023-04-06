@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "eimspyr": "^0.6.1",
+    "minimist": "^1.2.8",
+    "srcds-rcon": "^2.2.1"
+  },
+  "type": "module"
+}
