@@ -1,6 +1,7 @@
 # srcds-rcon-dos
-A srcds rcon flooder in progress.
-
+A Source Engine rcon flooder in progress.
+This is a rough, short draft anyways which i never released nor refined.
+See if you could use it!
 
 # Dependencies:
 You only need Node.JS! ^^
